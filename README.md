@@ -28,13 +28,14 @@ Clique nos links abaixo para acessar cada exercício/projeto individualmente:
 14. [Atividade 14 - `<br>`, `<!-- -->`](https://keniche46.github.io/Atividade14-Web1/)
 
 #### PROJETOS
-1. **Projeto 1 - Indisponível**
-2. **Projeto 2 - Indisponível**
-3. **Projeto 3 - Indisponível**
-4. **Projeto 4 - Indisponível**
-5. **Projeto 5 - Indisponível**
-6. **Projeto 6 - Indisponível**
-7. **Projeto 7 - Indisponível**
+Dupla: Heitor Martins e Rennan Medeiros
+1. [Apresentação Pessoal](https://keniche46.github.io/APRESENTACAO-PESSOAL/)
+2. [Portfólio de Imagens](https://keniche46.github.io/PORTFOLIO-DE-IMAGENS/)
+3. [Página de Receitas](https://keniche46.github.io/PAGINA-DE-RECEITAS/)
+4. [Site Pessoal](https://keniche46.github.io/SITE-PESSOAL/)
+5. [Tabela de Notas](https://keniche46.github.io/TABELA-DE-NOTAS/)
+6. [Roteiro de Viagens](https://keniche46.github.io/ROTEIRO-DE-VIAGENS/)
+7. [Cadastro de Usuário](https://keniche46.github.io/CADASTRO-DE-USUARIO/)
 
 ---
 
